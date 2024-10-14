@@ -1,0 +1,14 @@
+{
+	"name": "meuh-lavache",
+	"version": "1.0.0",
+	"type": "module",
+	"dependencies": {
+		"dotenv": "^10.0.0",
+		"cowsay": "^1.5.0"
+	},
+	"main": "index.js",
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
